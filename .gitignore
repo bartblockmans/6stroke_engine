@@ -1,0 +1,16 @@
+# MATLAB
+*.asv
+*.fig
+*.m~
+
+# Data files
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary images
+*.tmp
+*.bak
+
