@@ -1,12 +1,12 @@
 # 6-Stroke Internal Combustion Engine Simulation
 
-![6-Stroke Engine Animation](animation/porsche_6stroke_engine.gif)
+<img src="animation/porsche_6stroke_engine.gif" width="600" alt="6-Stroke Engine Animation">
 
 A MATLAB implementation for steady-state simulation of a novel 6-stroke internal combustion engine architecture. This codebase provides a complete simulation framework, from geometric analysis to thermodynamic modeling and dynamic visualization.
 
 ## Overview
 
-This repository contains a simulation framework for analyzing a 6-stroke engine cycle inspired by [US Patent US2024/0301817 A1](https://patents.google.com/patent/US2024/0301817A1/en). The engine employs a planetary gear mechanism to enable variable stroke lengths, resulting in a unique 1080° crank-angle cycle comprising six distinct strokes (two long, two short, and two long strokes in alternating pattern).
+This repository contains a simulation framework for analyzing a 6-stroke engine cycle inspired by [US Patent US20240301817A1](https://patents.google.com/patent/US20240301817A1/en). The engine employs a planetary gear mechanism to enable variable stroke lengths, resulting in a unique 1080° crank-angle cycle comprising six distinct strokes (two long, two short, and two long strokes in alternating pattern).
 
 ### Technical Approach
 
